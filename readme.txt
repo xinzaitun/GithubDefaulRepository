@@ -1,3 +1,3 @@
 git is a distributed version control system.
 git is free software distributed under the GPL.
-发送到发送到
+发送到发
